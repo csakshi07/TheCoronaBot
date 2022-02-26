@@ -8,6 +8,7 @@ As we know that because of Coronavirus/Covid-19 the world is going through a lot
 - Microsoft Azure Services such as :
   - Cognitive Services (QnA Maker)
   - Azure Bot Services
+  - App Services
   - Static Web Apps
 
 - HTML
