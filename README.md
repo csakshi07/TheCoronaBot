@@ -22,7 +22,7 @@ As we know that because of Coronavirus/Covid-19 the world is going through a lot
 - It has great responsiveness as it gives solution to the given question in seconds.
 
 
-## Visuals / Usage / Status :
+## GIF Image :
 
 ![](visuals.gif)
 
