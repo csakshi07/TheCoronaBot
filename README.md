@@ -30,11 +30,6 @@ As we know that because of Coronavirus/Covid-19 the world is going through a lot
 
 https://drive.google.com/file/d/1dk3hket_UeDDkDplXE3FEkbiee0XcgMa/view?usp=sharing
 
-## Roadmap :
-
-As the bot function very smoothly I am planning to add voice to my bot if possible in the near future.
-
-
 ## Support :
 
 If you have an issue regarding this project or you want help anything regarding this project kindly mail me on this id (21sakshichauhan@gmail.com).
