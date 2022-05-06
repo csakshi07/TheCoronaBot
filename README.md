@@ -26,6 +26,10 @@ As we know that because of Coronavirus/Covid-19 the world is going through a lot
 
 ![](visuals.gif)
 
+## Video URL :
+
+https://drive.google.com/file/d/1dk3hket_UeDDkDplXE3FEkbiee0XcgMa/view?usp=sharing
+
 ## Roadmap :
 
 As the bot function very smoothly I am planning to add voice to my bot if possible in the near future.
