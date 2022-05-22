@@ -5,21 +5,23 @@ As we know that because of Coronavirus/Covid-19 the world is going through a lot
 
 ## Tools / Services used :
 
+I have solely made this project from frontend to the backend by using the following services :
 - Microsoft Azure Services such as :
-  - Cognitive Services (QnA Maker)
+  - Cognitive Services (QnA Maker) 
   - Azure Bot Services
   - App Services
   - Static Web Apps
 
 - HTML
 - CSS
-
+- 
+Additional information is given in the video through the subtitles and please select the video quality from the settings which is in the bottom.
 
 ## Description / Features :
 
 - This bot guide people about the do's and don'ts of the virus.
 - It understands words and then give the prefered answer to the user.
-- It has great responsiveness as it gives solution to the given question in seconds.
+- It has great responsiveness once it picks the speed and it gives solution to the given question in seconds.
 
 
 ## GIF Image :
