@@ -14,8 +14,7 @@ I have solely made this project from frontend to the backend by using the follow
 
 - HTML
 - CSS
-- 
-Additional information is given in the video through the subtitles and please select the video quality from the settings which is in the bottom.
+- Additional information is given in the video through the subtitles and please select the video quality from the settings which is in the bottom.
 
 ## Description / Features :
 
